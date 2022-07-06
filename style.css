@@ -113,6 +113,7 @@ body{
     width: 330px;
     background-color: whitesmoke;   
     float: left;
+    border-radius: 5px;
     margin-right: 50px;
     padding-left: 10px;
     padding-top: 10px;
