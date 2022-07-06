@@ -78,6 +78,9 @@ body{
     height: 100px;
     padding-left: 20px;
     padding-top: 45px;
+    margin-right: 3px;
+    background-color: rgba(241, 130, 110, 0.067);
+    border-radius: 10px;
 }
 .Custom-amount{
     text-align: center;
@@ -104,7 +107,7 @@ body{
 .Motivated{
     position: relative;
     top: 670px;
-    left: -150px;
+    left: 210px;
     float: left;
     height: 300px;
 }
