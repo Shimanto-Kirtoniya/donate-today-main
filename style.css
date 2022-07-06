@@ -110,6 +110,7 @@ body{
     width: 400px;
     height: 400px;
     margin-left: 220px;
+    border-radius: 5px;
 }
 .half-width h1{
     width: 500px;
