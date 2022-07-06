@@ -126,7 +126,7 @@ body{
 }
 .half-width img{
     width: 400px;
-    height: 400px;
+    height: 370px;
     margin-left: 220px;
     border-radius: 5px;
 }
@@ -208,7 +208,7 @@ footer h1{
     top: 20px;
 }
 footer p{
-    color: tomato;
+    color: white;
     position: absolute;
     left: 700px;
     top: 50%;
